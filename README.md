@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hello there! 👋
 
 I am Dewits. I am in the process of transitioning into Software Engineering in the IT industry. I cannot wait to experience this aspect of this industry.
 
